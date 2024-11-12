@@ -1,0 +1,334 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/data/wow/item/1793?namespace=static-1.15.4_56573-classic1x-eu"
+        }
+    },
+    "id": 1793,
+    "name": {
+        "en_US": "Patched Leather Shoulderpads",
+        "es_MX": "Hombreras de cuero con remiendos",
+        "pt_BR": "Ombreiras de Couro Remendadas",
+        "de_DE": "Geflickte Lederschulterpolster",
+        "en_GB": "Patched Leather Shoulderpads",
+        "es_ES": "Hombreras de cuero con remiendos",
+        "fr_FR": "Protège-épaules raccommodés en cuir",
+        "it_IT": "Spalletti di Cuoio Rattoppati",
+        "ru_RU": "Заплатанные кожаные наплечные щитки",
+        "ko_KR": "기워 붙인 가죽 어깨보호구",
+        "zh_TW": "破舊的皮護肩",
+        "zh_CN": "破旧的皮护肩"
+    },
+    "quality": {
+        "type": "POOR",
+        "name": {
+            "en_US": "Poor",
+            "es_MX": "Pobre",
+            "pt_BR": "Inferior",
+            "de_DE": "Schlecht",
+            "en_GB": "Poor",
+            "es_ES": "Pobre",
+            "fr_FR": "Mauvais",
+            "it_IT": "Scarso",
+            "ru_RU": "Низкое",
+            "ko_KR": "하급",
+            "zh_TW": "粗糙",
+            "zh_CN": "粗糙"
+        }
+    },
+    "level": 20,
+    "required_level": 15,
+    "media": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/media/item/1793?namespace=static-1.15.4_56573-classic1x-eu"
+        },
+        "id": 1793
+    },
+    "item_class": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-1.15.4_56573-classic1x-eu"
+        },
+        "name": {
+            "en_US": "Armor",
+            "es_MX": "Armadura",
+            "pt_BR": "Armadura",
+            "de_DE": "Rüstung",
+            "en_GB": "Armor",
+            "es_ES": "Armadura",
+            "fr_FR": "Armure",
+            "it_IT": "Armature",
+            "ru_RU": "Доспехи",
+            "ko_KR": "방어구",
+            "zh_TW": "護甲",
+            "zh_CN": "护甲"
+        },
+        "id": 4
+    },
+    "item_subclass": {
+        "key": {
+            "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-1.15.4_56573-classic1x-eu"
+        },
+        "name": {
+            "en_US": "Leather",
+            "es_MX": "Cuero",
+            "pt_BR": "Couro",
+            "de_DE": "Leder",
+            "en_GB": "Leather",
+            "es_ES": "Cuero",
+            "fr_FR": "Cuir",
+            "it_IT": "Cuoio",
+            "ru_RU": "Кожа",
+            "ko_KR": "가죽",
+            "zh_TW": "皮甲",
+            "zh_CN": "皮甲"
+        },
+        "id": 2
+    },
+    "inventory_type": {
+        "type": "SHOULDER",
+        "name": {
+            "en_US": "Shoulder",
+            "es_MX": "Hombro",
+            "pt_BR": "Ombros",
+            "de_DE": "Schulter",
+            "en_GB": "Shoulder",
+            "es_ES": "Hombro",
+            "fr_FR": "Epaule",
+            "it_IT": "Spalle",
+            "ru_RU": "Плечо",
+            "ko_KR": "어깨",
+            "zh_TW": "肩部",
+            "zh_CN": "肩部"
+        }
+    },
+    "purchase_price": 1037,
+    "sell_price": 207,
+    "max_count": 0,
+    "is_equippable": true,
+    "is_stackable": false,
+    "preview_item": {
+        "item": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item/1793?namespace=static-1.15.4_56573-classic1x-eu"
+            },
+            "id": 1793
+        },
+        "quality": {
+            "type": "POOR",
+            "name": {
+                "en_US": "Poor",
+                "es_MX": "Pobre",
+                "pt_BR": "Inferior",
+                "de_DE": "Schlecht",
+                "en_GB": "Poor",
+                "es_ES": "Pobre",
+                "fr_FR": "Mauvais",
+                "it_IT": "Scarso",
+                "ru_RU": "Низкое",
+                "ko_KR": "하급",
+                "zh_TW": "粗糙",
+                "zh_CN": "粗糙"
+            }
+        },
+        "name": {
+            "en_US": "Patched Leather Shoulderpads",
+            "es_MX": "Hombreras de cuero con remiendos",
+            "pt_BR": "Ombreiras de Couro Remendadas",
+            "de_DE": "Geflickte Lederschulterpolster",
+            "en_GB": "Patched Leather Shoulderpads",
+            "es_ES": "Hombreras de cuero con remiendos",
+            "fr_FR": "Protège-épaules raccommodés en cuir",
+            "it_IT": "Spalletti di Cuoio Rattoppati",
+            "ru_RU": "Заплатанные кожаные наплечные щитки",
+            "ko_KR": "기워 붙인 가죽 어깨보호구",
+            "zh_TW": "破舊的皮護肩",
+            "zh_CN": "破旧的皮护肩"
+        },
+        "media": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/media/item/1793?namespace=static-1.15.4_56573-classic1x-eu"
+            },
+            "id": 1793
+        },
+        "item_class": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4?namespace=static-1.15.4_56573-classic1x-eu"
+            },
+            "name": {
+                "en_US": "Armor",
+                "es_MX": "Armadura",
+                "pt_BR": "Armadura",
+                "de_DE": "Rüstung",
+                "en_GB": "Armor",
+                "es_ES": "Armadura",
+                "fr_FR": "Armure",
+                "it_IT": "Armature",
+                "ru_RU": "Доспехи",
+                "ko_KR": "방어구",
+                "zh_TW": "護甲",
+                "zh_CN": "护甲"
+            },
+            "id": 4
+        },
+        "item_subclass": {
+            "key": {
+                "href": "https://eu.api.blizzard.com/data/wow/item-class/4/item-subclass/2?namespace=static-1.15.4_56573-classic1x-eu"
+            },
+            "name": {
+                "en_US": "Leather",
+                "es_MX": "Cuero",
+                "pt_BR": "Couro",
+                "de_DE": "Leder",
+                "en_GB": "Leather",
+                "es_ES": "Cuero",
+                "fr_FR": "Cuir",
+                "it_IT": "Cuoio",
+                "ru_RU": "Кожа",
+                "ko_KR": "가죽",
+                "zh_TW": "皮甲",
+                "zh_CN": "皮甲"
+            },
+            "id": 2
+        },
+        "inventory_type": {
+            "type": "SHOULDER",
+            "name": {
+                "en_US": "Shoulder",
+                "es_MX": "Hombro",
+                "pt_BR": "Ombros",
+                "de_DE": "Schulter",
+                "en_GB": "Shoulder",
+                "es_ES": "Hombro",
+                "fr_FR": "Epaule",
+                "it_IT": "Spalle",
+                "ru_RU": "Плечо",
+                "ko_KR": "어깨",
+                "zh_TW": "肩部",
+                "zh_CN": "肩部"
+            }
+        },
+        "armor": {
+            "value": 52,
+            "display": {
+                "display_string": {
+                    "en_US": "52 Armor",
+                    "es_MX": "52 p. de armadura",
+                    "pt_BR": "52 de Armadura",
+                    "de_DE": "52 Rüstung",
+                    "en_GB": "52 Armor",
+                    "es_ES": "52 armadura",
+                    "fr_FR": "Armure : 52",
+                    "it_IT": "52 Armor",
+                    "ru_RU": "Броня: 52",
+                    "ko_KR": "방어도 52",
+                    "zh_TW": "52點護甲",
+                    "zh_CN": "52点护甲"
+                },
+                "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255,
+                    "a": 1
+                }
+            }
+        },
+        "sell_price": {
+            "value": 207,
+            "display_strings": {
+                "header": {
+                    "en_US": "Sell Price:",
+                    "es_MX": "Precio de venta:",
+                    "pt_BR": "Preço de Venda:",
+                    "de_DE": "Verkaufspreis:",
+                    "en_GB": "Sell Price:",
+                    "es_ES": "Precio de venta:",
+                    "fr_FR": "Prix de vente :",
+                    "it_IT": "Prezzo di vendita:",
+                    "ru_RU": "Цена продажи:",
+                    "ko_KR": "판매 가격:",
+                    "zh_TW": "售價:",
+                    "zh_CN": "卖价:"
+                },
+                "gold": {
+                    "en_US": "0",
+                    "es_MX": "0",
+                    "pt_BR": "0",
+                    "de_DE": "0",
+                    "en_GB": "0",
+                    "es_ES": "0",
+                    "fr_FR": "0",
+                    "it_IT": "0",
+                    "ru_RU": "0",
+                    "ko_KR": "0",
+                    "zh_TW": "0",
+                    "zh_CN": "0"
+                },
+                "silver": {
+                    "en_US": "2",
+                    "es_MX": "2",
+                    "pt_BR": "2",
+                    "de_DE": "2",
+                    "en_GB": "2",
+                    "es_ES": "2",
+                    "fr_FR": "2",
+                    "it_IT": "2",
+                    "ru_RU": "2",
+                    "ko_KR": "2",
+                    "zh_TW": "2",
+                    "zh_CN": "2"
+                },
+                "copper": {
+                    "en_US": "7",
+                    "es_MX": "7",
+                    "pt_BR": "7",
+                    "de_DE": "7",
+                    "en_GB": "7",
+                    "es_ES": "7",
+                    "fr_FR": "7",
+                    "it_IT": "7",
+                    "ru_RU": "7",
+                    "ko_KR": "7",
+                    "zh_TW": "7",
+                    "zh_CN": "7"
+                }
+            }
+        },
+        "requirements": {
+            "level": {
+                "value": 15,
+                "display_string": {
+                    "en_US": "Requires Level 15",
+                    "es_MX": "Necesitas ser de nivel 15",
+                    "pt_BR": "Requer o Nível 15",
+                    "de_DE": "Benötigt Stufe 15",
+                    "en_GB": "Requires Level 15",
+                    "es_ES": "Necesitas ser de nivel 15",
+                    "fr_FR": "Niveau 15 requis",
+                    "it_IT": "Richiede il livello 15",
+                    "ru_RU": "Требуется 15-й уровень",
+                    "ko_KR": "최소 요구 레벨 15",
+                    "zh_TW": "需要等級 15",
+                    "zh_CN": "需要等级 15"
+                }
+            }
+        },
+        "durability": {
+            "value": 40,
+            "display_string": {
+                "en_US": "Durability 40 / 40",
+                "es_MX": "Durabilidad 40 / 40",
+                "pt_BR": "Durabilidade 40 / 40",
+                "de_DE": "Haltbarkeit 40 / 40",
+                "en_GB": "Durability 40 / 40",
+                "es_ES": "Durabilidad 40 / 40",
+                "fr_FR": "Durabilité 40 / 40",
+                "it_IT": "Integrità 40 / 40",
+                "ru_RU": "Прочность: 40 / 40",
+                "ko_KR": "내구도 40 / 40",
+                "zh_TW": "耐久度 40 / 40",
+                "zh_CN": "耐久度 40 / 40"
+            }
+        }
+    },
+    "purchase_quantity": 1
+}

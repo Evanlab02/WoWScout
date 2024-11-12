@@ -1,0 +1,435 @@
+{
+    "_links": {
+        "self": {
+            "href": "https://eu.api.blizzard.com/profile/user/wow?namespace=profile-classic1x-eu"
+        },
+        "user": {
+            "href": "https://eu.api.blizzard.com/profile/user"
+        },
+        "profile": {
+            "href": "https://eu.api.blizzard.com/profile/user/wow?namespace=profile-classic1x-eu"
+        }
+    },
+    "id": 417869605,
+    "wow_accounts": [
+        {
+            "id": 87359243,
+            "characters": [
+                {
+                    "character": {
+                        "href": "https://eu.api.blizzard.com/profile/wow/character/firemaw/animalalpaca?namespace=profile-classic1x-eu"
+                    },
+                    "protected_character": {
+                        "href": "https://eu.api.blizzard.com/profile/user/wow/protected-character/5233-32291907?namespace=profile-classic1x-eu"
+                    },
+                    "name": "Animalalpaca",
+                    "id": 32291907,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/5233?namespace=dynamic-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Firemaw",
+                            "es_MX": "Firemaw",
+                            "pt_BR": "Firemaw",
+                            "de_DE": "Firemaw",
+                            "en_GB": "Firemaw",
+                            "es_ES": "Firemaw",
+                            "fr_FR": "Firemaw",
+                            "it_IT": "Firemaw",
+                            "ru_RU": "Firemaw",
+                            "ko_KR": "Firemaw",
+                            "zh_TW": "費爾默",
+                            "zh_CN": "费尔默"
+                        },
+                        "id": 5233,
+                        "slug": "firemaw"
+                    },
+                    "playable_class": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Warrior",
+                            "es_MX": "Guerrero",
+                            "pt_BR": "Guerreiro",
+                            "de_DE": "Krieger",
+                            "en_GB": "Warrior",
+                            "es_ES": "Guerrero",
+                            "fr_FR": "Guerrier",
+                            "ru_RU": "Воин",
+                            "ko_KR": "전사",
+                            "zh_TW": "戰士",
+                            "zh_CN": "战士"
+                        },
+                        "id": 1
+                    },
+                    "playable_race": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-race/1?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Human",
+                            "es_MX": "Humano",
+                            "pt_BR": "Humano",
+                            "de_DE": "Mensch",
+                            "en_GB": "Human",
+                            "es_ES": "Humano",
+                            "fr_FR": "Humain",
+                            "ru_RU": "Человек",
+                            "ko_KR": "인간",
+                            "zh_TW": "人類",
+                            "zh_CN": "人类"
+                        },
+                        "id": 1
+                    },
+                    "gender": {
+                        "type": "MALE",
+                        "name": {
+                            "en_US": "Male",
+                            "es_MX": "Masculino",
+                            "pt_BR": "Masculino",
+                            "de_DE": "Männlich",
+                            "en_GB": "Male",
+                            "es_ES": "Masculino",
+                            "fr_FR": "Homme",
+                            "it_IT": "Maschio",
+                            "ru_RU": "Муж.",
+                            "ko_KR": "남성",
+                            "zh_TW": "男性",
+                            "zh_CN": "男性"
+                        }
+                    },
+                    "faction": {
+                        "type": "ALLIANCE",
+                        "name": {
+                            "en_US": "Alliance",
+                            "es_MX": "Alianza",
+                            "pt_BR": "Aliança",
+                            "de_DE": "Allianz",
+                            "en_GB": "Alliance",
+                            "es_ES": "Alianza",
+                            "fr_FR": "Alliance",
+                            "it_IT": "Alleanza",
+                            "ru_RU": "Альянс",
+                            "ko_KR": "얼라이언스",
+                            "zh_TW": "聯盟",
+                            "zh_CN": "联盟"
+                        }
+                    },
+                    "level": 22
+                },
+                {
+                    "character": {
+                        "href": "https://eu.api.blizzard.com/profile/wow/character/wild-growth/animalalpaca?namespace=profile-classic1x-eu"
+                    },
+                    "protected_character": {
+                        "href": "https://eu.api.blizzard.com/profile/user/wow/protected-character/5825-48261895?namespace=profile-classic1x-eu"
+                    },
+                    "name": "Animalalpaca",
+                    "id": 48261895,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/5825?namespace=dynamic-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Wild Growth",
+                            "pt_BR": "Wild Growth",
+                            "de_DE": "Wild Growth",
+                            "en_GB": "Wild Growth",
+                            "es_ES": "Wild Growth",
+                            "fr_FR": "Wild Growth",
+                            "it_IT": "Wild Growth",
+                            "ru_RU": "Буйный рост",
+                            "ko_KR": "급속 성장",
+                            "zh_TW": "野性痊癒",
+                            "zh_CN": "野性成长"
+                        },
+                        "id": 5825,
+                        "slug": "wild-growth"
+                    },
+                    "playable_class": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Warrior",
+                            "es_MX": "Guerrero",
+                            "pt_BR": "Guerreiro",
+                            "de_DE": "Krieger",
+                            "en_GB": "Warrior",
+                            "es_ES": "Guerrero",
+                            "fr_FR": "Guerrier",
+                            "ru_RU": "Воин",
+                            "ko_KR": "전사",
+                            "zh_TW": "戰士",
+                            "zh_CN": "战士"
+                        },
+                        "id": 1
+                    },
+                    "playable_race": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-race/1?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Human",
+                            "es_MX": "Humano",
+                            "pt_BR": "Humano",
+                            "de_DE": "Mensch",
+                            "en_GB": "Human",
+                            "es_ES": "Humano",
+                            "fr_FR": "Humain",
+                            "ru_RU": "Человек",
+                            "ko_KR": "인간",
+                            "zh_TW": "人類",
+                            "zh_CN": "人类"
+                        },
+                        "id": 1
+                    },
+                    "gender": {
+                        "type": "MALE",
+                        "name": {
+                            "en_US": "Male",
+                            "es_MX": "Masculino",
+                            "pt_BR": "Masculino",
+                            "de_DE": "Männlich",
+                            "en_GB": "Male",
+                            "es_ES": "Masculino",
+                            "fr_FR": "Homme",
+                            "it_IT": "Maschio",
+                            "ru_RU": "Муж.",
+                            "ko_KR": "남성",
+                            "zh_TW": "男性",
+                            "zh_CN": "男性"
+                        }
+                    },
+                    "faction": {
+                        "type": "ALLIANCE",
+                        "name": {
+                            "en_US": "Alliance",
+                            "es_MX": "Alianza",
+                            "pt_BR": "Aliança",
+                            "de_DE": "Allianz",
+                            "en_GB": "Alliance",
+                            "es_ES": "Alianza",
+                            "fr_FR": "Alliance",
+                            "it_IT": "Alleanza",
+                            "ru_RU": "Альянс",
+                            "ko_KR": "얼라이언스",
+                            "zh_TW": "聯盟",
+                            "zh_CN": "联盟"
+                        }
+                    },
+                    "level": 24
+                },
+                {
+                    "character": {
+                        "href": "https://eu.api.blizzard.com/profile/wow/character/wild-growth/furiouspaca?namespace=profile-classic1x-eu"
+                    },
+                    "protected_character": {
+                        "href": "https://eu.api.blizzard.com/profile/user/wow/protected-character/5825-48379464?namespace=profile-classic1x-eu"
+                    },
+                    "name": "Furiouspaca",
+                    "id": 48379464,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/5825?namespace=dynamic-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Wild Growth",
+                            "pt_BR": "Wild Growth",
+                            "de_DE": "Wild Growth",
+                            "en_GB": "Wild Growth",
+                            "es_ES": "Wild Growth",
+                            "fr_FR": "Wild Growth",
+                            "it_IT": "Wild Growth",
+                            "ru_RU": "Буйный рост",
+                            "ko_KR": "급속 성장",
+                            "zh_TW": "野性痊癒",
+                            "zh_CN": "野性成长"
+                        },
+                        "id": 5825,
+                        "slug": "wild-growth"
+                    },
+                    "playable_class": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/1?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Warrior",
+                            "es_MX": "Guerrero",
+                            "pt_BR": "Guerreiro",
+                            "de_DE": "Krieger",
+                            "en_GB": "Warrior",
+                            "es_ES": "Guerrero",
+                            "fr_FR": "Guerrier",
+                            "ru_RU": "Воин",
+                            "ko_KR": "전사",
+                            "zh_TW": "戰士",
+                            "zh_CN": "战士"
+                        },
+                        "id": 1
+                    },
+                    "playable_race": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-race/5?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Undead",
+                            "es_MX": "No-muerto",
+                            "pt_BR": "Morto-vivo",
+                            "de_DE": "Untoter",
+                            "en_GB": "Undead",
+                            "es_ES": "No-muerto",
+                            "fr_FR": "Mort-vivant",
+                            "ru_RU": "Нежить",
+                            "ko_KR": "언데드",
+                            "zh_TW": "不死族",
+                            "zh_CN": "亡灵"
+                        },
+                        "id": 5
+                    },
+                    "gender": {
+                        "type": "MALE",
+                        "name": {
+                            "en_US": "Male",
+                            "es_MX": "Masculino",
+                            "pt_BR": "Masculino",
+                            "de_DE": "Männlich",
+                            "en_GB": "Male",
+                            "es_ES": "Masculino",
+                            "fr_FR": "Homme",
+                            "it_IT": "Maschio",
+                            "ru_RU": "Муж.",
+                            "ko_KR": "남성",
+                            "zh_TW": "男性",
+                            "zh_CN": "男性"
+                        }
+                    },
+                    "faction": {
+                        "type": "HORDE",
+                        "name": {
+                            "en_US": "Horde",
+                            "es_MX": "Horda",
+                            "pt_BR": "Horda",
+                            "de_DE": "Horde",
+                            "en_GB": "Horde",
+                            "es_ES": "Horda",
+                            "fr_FR": "Horde",
+                            "it_IT": "Orda",
+                            "ru_RU": "Орда",
+                            "ko_KR": "호드",
+                            "zh_TW": "部落",
+                            "zh_CN": "部落"
+                        }
+                    },
+                    "level": 9
+                },
+                {
+                    "character": {
+                        "href": "https://eu.api.blizzard.com/profile/wow/character/pyrewood-village/volus?namespace=profile-classic1x-eu"
+                    },
+                    "protected_character": {
+                        "href": "https://eu.api.blizzard.com/profile/user/wow/protected-character/5284-29737449?namespace=profile-classic1x-eu"
+                    },
+                    "name": "Volus",
+                    "id": 29737449,
+                    "realm": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/realm/5284?namespace=dynamic-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Pyrewood Village",
+                            "es_MX": "Pyrewood Village",
+                            "pt_BR": "Pyrewood Village",
+                            "de_DE": "Pyrewood Village",
+                            "en_GB": "Pyrewood Village",
+                            "es_ES": "Pyrewood Village",
+                            "fr_FR": "Pyrewood Village",
+                            "it_IT": "Pyrewood Village",
+                            "ru_RU": "Pyrewood Village",
+                            "ko_KR": "Pyrewood Village",
+                            "zh_TW": "焚木村",
+                            "zh_CN": "焚木村"
+                        },
+                        "id": 5284,
+                        "slug": "pyrewood-village"
+                    },
+                    "playable_class": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-class/8?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Mage",
+                            "es_MX": "Mago",
+                            "pt_BR": "Mago",
+                            "de_DE": "Magier",
+                            "en_GB": "Mage",
+                            "es_ES": "Mago",
+                            "fr_FR": "Mage",
+                            "ru_RU": "Маг",
+                            "ko_KR": "마법사",
+                            "zh_TW": "法師",
+                            "zh_CN": "法师"
+                        },
+                        "id": 8
+                    },
+                    "playable_race": {
+                        "key": {
+                            "href": "https://eu.api.blizzard.com/data/wow/playable-race/7?namespace=static-1.15.4_56573-classic1x-eu"
+                        },
+                        "name": {
+                            "en_US": "Gnome",
+                            "es_MX": "Gnomo",
+                            "pt_BR": "Gnomo",
+                            "de_DE": "Gnom",
+                            "en_GB": "Gnome",
+                            "es_ES": "Gnomo",
+                            "fr_FR": "Gnome",
+                            "ru_RU": "Гном",
+                            "ko_KR": "노움",
+                            "zh_TW": "地精",
+                            "zh_CN": "侏儒"
+                        },
+                        "id": 7
+                    },
+                    "gender": {
+                        "type": "MALE",
+                        "name": {
+                            "en_US": "Male",
+                            "es_MX": "Masculino",
+                            "pt_BR": "Masculino",
+                            "de_DE": "Männlich",
+                            "en_GB": "Male",
+                            "es_ES": "Masculino",
+                            "fr_FR": "Homme",
+                            "it_IT": "Maschio",
+                            "ru_RU": "Муж.",
+                            "ko_KR": "남성",
+                            "zh_TW": "男性",
+                            "zh_CN": "男性"
+                        }
+                    },
+                    "faction": {
+                        "type": "ALLIANCE",
+                        "name": {
+                            "en_US": "Alliance",
+                            "es_MX": "Alianza",
+                            "pt_BR": "Aliança",
+                            "de_DE": "Allianz",
+                            "en_GB": "Alliance",
+                            "es_ES": "Alianza",
+                            "fr_FR": "Alliance",
+                            "it_IT": "Alleanza",
+                            "ru_RU": "Альянс",
+                            "ko_KR": "얼라이언스",
+                            "zh_TW": "聯盟",
+                            "zh_CN": "联盟"
+                        }
+                    },
+                    "level": 9
+                }
+            ]
+        }
+    ]
+}
