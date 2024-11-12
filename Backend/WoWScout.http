@@ -1,0 +1,6 @@
+@WoWScout_HostAddress = http://localhost:5088
+
+GET {{WoWScout_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
